@@ -23,6 +23,8 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-999999?style=flat-square&logo=macos&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
+![AI Native](https://img.shields.io/badge/%E2%9C%A8%20AI%20Native-8A2BE2?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
 </div>
 
 <br/>
